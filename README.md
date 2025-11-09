@@ -14,8 +14,8 @@ Each project focuses on a unique dataset and demonstrates the complete data anal
  🗂️ Project List
 | Project Name                  | Description                          | Link
 |-------------------------------|--------------------------------------|------------------------------------------------------|
-| 📱 **Google Play Store EDA**  | Analyzing app categories,ratings, and trends in the mobile app market |https://colab.research.google.com/drive/1zZkBBzsUvQ-ztatieEjJ9UPdG3f3xsOY#scrollTo=S7HHQ_bZ5fdA
-
-| ✈️ *Upcoming Project* | Airline Dataset |
+|📱 **Google Play Store EDA**  | Analyzing app categories,ratings, and trends in the mobile app market |https://colab.research.google.com/drive/1zZkBBzsUvQ-ztatieEjJ9UPdG3f3xsOY#scrollTo=S7HHQ_bZ5fdA
+|-------------------------------|---------------------------------------|------------------------------------------------------|
+| ✈️  **Airline Dataset EDA**   | Analyzing Airline Pricing trends, source, destination and stops |https://colab.research.google.com/drive/1uOO4Qv0ZjqYSjqrGUd0BOjCjRJodoDtu?usp=drive_open#scrollTo=MjUTn9C2WVZ7
 
 
