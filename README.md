@@ -16,5 +16,7 @@ Each project focuses on a unique dataset and demonstrates the complete data anal
 |-------------------------------|--------------------------------------|------------------------------------------------------|
 |📱 **Google Play Store EDA**  | Analyzing app categories,ratings, and trends in the mobile app market |https://colab.research.google.com/drive/1zZkBBzsUvQ-ztatieEjJ9UPdG3f3xsOY#scrollTo=S7HHQ_bZ5fdA
 | ✈️  **Airline Dataset EDA**   |Analyzing Airline Pricing trends based on source, destination and stops|https://colab.research.google.com/drive/1uOO4Qv0ZjqYSjqrGUd0BOjCjRJodoDtu?usp=drive_open#scrollTo=MjUTn9C2WVZ7
+| 🎵 **Gaana Music Dataset EDA** |Analyzing trends in song languages, artist popularity, and duration using Python and data visualization.|https://colab.research.google.com/drive/15pQr8X0p5L7JpnPqG4jsb3iM_tk5wY8f
+
 
 
