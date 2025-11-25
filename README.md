@@ -18,7 +18,7 @@ Each project focuses on a unique dataset and demonstrates the complete data anal
 | ✈️  **Airline Dataset EDA**   |Analyzing Airline Pricing trends based on source, destination and stops|https://colab.research.google.com/drive/1uOO4Qv0ZjqYSjqrGUd0BOjCjRJodoDtu?usp=drive_open#scrollTo=MjUTn9C2WVZ7
 | 🎵 **Gaana Music Dataset EDA** |Analyzing trends in song languages, artist popularity, and duration using Python and data visualization.|https://colab.research.google.com/drive/15pQr8X0p5L7JpnPqG4jsb3iM_tk5wY8f
 | 🚢 Titanic Dataset - Exploratory Data Analysis (EDA) |This project explores the Titanic dataset to analyze passenger demographics, travel classes, and survival patterns.Through visualizations and statistical insights, it identifies key factors that influenced survival outcomes. |https://colab.research.google.com/drive/15WrSdPEKilgphuQg3hsdsgoq0ZVX6jLB#scrollTo=2nibd-RPqVua
-
+|🎬🍿 Netflix Movies & TV Shows – Exploratory Data Analysis 📊✨|Explored Netflix titles to understand content trends, genre patterns, and release timelines.Cleaned missing values and visualized key insights for better data understanding.|https://colab.research.google.com/drive/1FYWdeTI2G01Q9T1i8xUQpXAXP-aKpgGk#scrollTo=RrgfV5AvevfJ
 
 
 
